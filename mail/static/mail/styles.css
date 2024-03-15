@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+
+.mailDis{
+    border: 1px solid black;
+}
+
+.mailDisRead{
+    border: 1px solid black;
+    background-color: rgb(146, 153, 153);
+}
+
+.mailDisUnRead{
+    border: 1px solid black;
+    background-color: white;
+}
